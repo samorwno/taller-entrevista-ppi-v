@@ -1,0 +1,47 @@
+{
+  "schema": "ppi-v-respuestas/1",
+  "savedAt": "2026-11-12T00:00:40.058Z",
+  "deviceId": "test01",
+  "project": "Prueba de guardado",
+  "team": "Prueba automática",
+  "state": {
+    "step": 0,
+    "fields": {
+      "team": "Prueba automática",
+      "project": "Prueba de guardado",
+      "challenge": "Comprobar que el navegador puede hacer commits con la API de GitHub.",
+      "info": "Verificar el flujo completo sin backend."
+    },
+    "quiz": {},
+    "history": [],
+    "selfReview": {},
+    "simulationChoice": "",
+    "questions": [
+      {
+        "type": "Apertura",
+        "text": ""
+      },
+      {
+        "type": "Desarrollo",
+        "text": ""
+      },
+      {
+        "type": "Desarrollo",
+        "text": ""
+      },
+      {
+        "type": "Desarrollo",
+        "text": ""
+      },
+      {
+        "type": "Profundización",
+        "text": ""
+      },
+      {
+        "type": "Cierre",
+        "text": ""
+      }
+    ],
+    "checks": {}
+  }
+}
